@@ -1021,6 +1021,9 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 980px) {
+			#top .image img{
+				width: 81%;
+			}
 
 			.row {
 				display: flex;
